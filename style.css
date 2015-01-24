@@ -1,0 +1,101 @@
+*{
+	-webkit-transition: all 0.35s ease-in-out;
+	-moz-transition: all 0.35s ease-in-out;
+	-o-transition: all 0.35s ease-in-out;
+	transition: all 0.35s ease-in-out;
+}
+
+body{
+	background-color: #00D4FF;
+	font-family: Century Gothic, sans-serif;
+}
+
+h1
+{
+	font-family: ;
+	text-align: center;
+	font-size: 4em;
+}
+
+form
+{
+	display: inline-block;
+	margin: auto;
+}
+
+.header{
+	width: 100%;
+	margin: auto;
+	margin-bottom: 1em;
+	top: 0;
+	left: 0;
+}
+#userPhoto{
+	height: 7em;
+	width: 6.5em;
+	
+}
+
+#pic{
+	border-radius: 1em;
+	margin-right: 25%;
+	margin-left: 5em;
+	margin-top: 2em;
+	border: 5px solid Grey;
+}
+
+.headerIcon{
+	color: black;
+	height: 2em;
+	display: inline-block;
+	
+}
+
+.headerIcon  .icon{
+	display: inline-block;
+	width: 2em;
+	padding: 1em;
+	border: 5px solid silver;
+}
+
+.menu{
+	background-color: grey;
+	color: white;
+	display: inline-block;
+	margin: 0.1em auto;
+	text-align: center;
+	padding: 1em;
+	border-radius: 1em;
+	width: 17.3%;
+}
+.menu:hover{
+	color: black;
+	background-color: silver;
+	cursor: pointer;
+}
+
+.halfimg{
+	display: block;
+	width: 49.5%;
+	height: 18em;
+	margin: 0em 0.2em 0em 0.2em;
+	float: left;
+	background-color: white;
+	width:;
+}
+.halfimg img{
+	width: 100%;
+	height: 18em;
+}
+.heading
+{
+	background-color: rgba(255,255,255,0.5);
+	
+}
+
+#login{
+	background-color: rgba(255,255,255,0.1);
+	margin: 1em;
+	padding: 1em 0 0 35%;
+	margin: 3em 0;
+}
